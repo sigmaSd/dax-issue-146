@@ -8,5 +8,5 @@ child.abort();
 
 await child; // First run: Error: Aborted with exit code: 124
 
-             // Second run: AddrInUse: Address already in use
-             //             Error: Exited with code: 1
+            // Second run: AddrInUse: Address already in use
+            //             Error: Exited with code: 1
